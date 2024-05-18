@@ -1,0 +1,15 @@
+
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+svg {
+    max-height: 120vh;
+    width: 120%;
+}
+polygon {
+  filter: drop-shadow(1vmin 1vmin 2vmin #0005);
+}
